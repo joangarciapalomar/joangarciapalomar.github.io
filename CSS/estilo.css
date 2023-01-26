@@ -28,36 +28,14 @@ hr{
     margin: 25px;
 }
 .body-text{
-    margin-left: 250px;
-    margin-right: 250px;
+    margin: 10%;
     margin-top: 0px;
     padding: auto;
     border: 1px solid rgb(55, 55, 55);
-    border-bottom: solid rgb(50, 50, 50);
+    border-bottom: solid rgb(55, 55, 55);
     background-color: rgb(50, 50, 50);
 }
-.contact{
-    margin-left: 250px;
-    margin-right: 50%;
-    margin-top: 0px;
-    padding: auto;
-    border-top: solid rgb(50, 50, 50);
-    border-right: solid rgb(50, 50, 50);
-    border: 1px solid rgb(55, 55, 55);
-    background-color: rgb(50, 50, 50);
 
-}
-.idiom{
-    margin-right: 250px;
-    margin-left: 50%;
-    margin-top: -321px;
-    padding: auto;
-    border-top: solid rgb(50, 50, 50);
-    border-left: solid rgb(50, 50, 50);
-    border: 1px solid rgb(55, 55, 55);
-    background-color: rgb(50, 50, 50);
-    
-}
 .name{
 
     text-align: center;
