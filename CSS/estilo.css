@@ -41,6 +41,57 @@ hr{
     text-align: center;
     color: aliceblue;
     
+}
+
+@media (max-width: 600px) {
+   
+    .body-text{
+        margin: auto;
+        margin-top: 0px;
+        padding: auto;
+        border: 1px solid rgb(55, 55, 55);
+        border-bottom: solid rgb(55, 55, 55);
+        background-color: rgb(50, 50, 50);
+    }
     
+}
+
+h1{
+    font-size: 70px;
+}
+
+h2 {
+    margin: 25px;
+    color: aliceblue;
+}
+h4{
+    margin-left: 50px;
+    color: aliceblue;
+}
+h5{
+    margin-left: 50px;
+    color: aliceblue;
+}
+p{
+    margin-left: 100px;
+    color: aliceblue;
+    margin-right: 150px;
+}
+hr{
+    margin: 25px;
+}
+.body-text{
+    margin: 10%;
+    margin-top: 0px;
+    padding: auto;
+    border: 1px solid rgb(55, 55, 55);
+    border-bottom: solid rgb(55, 55, 55);
+    background-color: rgb(50, 50, 50);
+}
+
+.name{
+
+    text-align: center;
+    color: aliceblue;
     
 }
