@@ -27,6 +27,11 @@ p{
 hr{
     margin: 25px;
 }
+a{
+    margin-left: 100px;
+    color: aqua;
+    
+}
 .body-text{
     margin: 10%;
     margin-top: 0px;
