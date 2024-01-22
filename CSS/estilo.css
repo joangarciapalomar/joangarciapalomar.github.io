@@ -1,102 +1,61 @@
 body {
     background-color: rgb(30, 30, 30);
-    
+    color: white;
 }
 
-h1{
-    font-size: 70px;
+h1 {
+    font-size: 2em;
+    margin: 0.5em 0;
 }
 
 h2 {
-    margin: 25px;
+    margin: 1em 0;
     color: aliceblue;
 }
-h4{
-    margin-left: 50px;
+
+h4 {
+    margin-left: 1.25em;
     color: aliceblue;
 }
-h5{
-    margin-left: 50px;
+
+h5 {
+    margin-left: 1.25em;
     color: aliceblue;
 }
-p{
-    margin-left: 100px;
+
+p {
+    margin-left: 1.5em;
+    margin-right: 2.5em;
     color: aliceblue;
-    margin-right: 150px;
+    line-height: 1.5;
 }
-hr{
-    margin: 25px;
+
+hr {
+    margin: 1em 0;
 }
-a{
-    margin-left: 100px;
+
+a {
+    margin-left: 1.5em;
     color: aqua;
-    
+    text-decoration: underline;
 }
-.body-text{
-    margin: 10%;
-    margin-top: 0px;
-    padding: auto;
+
+.body-text {
+    margin: 5%;
+    padding: 1em;
     border: 1px solid rgb(55, 55, 55);
-    border-bottom: solid rgb(55, 55, 55);
+    border-bottom: none;
     background-color: rgb(50, 50, 50);
 }
 
-.name{
-
+.name {
     text-align: center;
     color: aliceblue;
-    
 }
 
 @media (max-width: 768px) {
-   
-    .body-text{
-        margin: auto;
-        margin-top: 0px;
-        padding: auto;
-        border: 1px solid rgb(55, 55, 55);
-        border-bottom: solid rgb(55, 55, 55);
-        background-color: rgb(50, 50, 50);
+    .body-text {
+        margin: 2%;
+        padding: 1em;
     }
-    
-}
-
-h1{
-    font-size: 70px;
-}
-
-h2 {
-    margin: 25px;
-    color: aliceblue;
-}
-h4{
-    margin-left: 50px;
-    color: aliceblue;
-}
-h5{
-    margin-left: 50px;
-    color: aliceblue;
-}
-p{
-    margin-left: 100px;
-    color: aliceblue;
-    margin-right: 150px;
-}
-hr{
-    margin: 25px;
-}
-.body-text{
-    margin: 10%;
-    margin-top: 0px;
-    padding: auto;
-    border: 1px solid rgb(55, 55, 55);
-    border-bottom: solid rgb(55, 55, 55);
-    background-color: rgb(50, 50, 50);
-}
-
-.name{
-
-    text-align: center;
-    color: aliceblue;
-    
 }
